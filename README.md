@@ -5,6 +5,7 @@
 * Android开发之多级下拉列表菜单实现（仿美团，淘宝等） --http://blog.csdn.net/minimicall/article/details/39484493  
 * 刷新sd卡，解决mtp文件夹不同步 --http://blog.csdn.net/lincyang/article/details/45766479  
 * url中文匹配转码 --http://blog.csdn.net/dalancon/article/details/17282469  
+* 利用Buck进行高效Android编译 --http://www.infoq.com/cn/news/2015/06/buck-android-build  
   
 ## 优化相关  
 * Android OnLowMemory和OnTrimMemory --http://blog.csdn.net/zq13561411965/article/details/47907257  

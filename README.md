@@ -6,6 +6,7 @@
 * 刷新sd卡，解决mtp文件夹不同步 --http://blog.csdn.net/lincyang/article/details/45766479  
 * url中文匹配转码 --http://blog.csdn.net/dalancon/article/details/17282469  
 * 利用Buck进行高效Android编译 --http://www.infoq.com/cn/news/2015/06/buck-android-build  
+* Android对话框Dialog，PopupWindow，Toast的实现机制 --http://blog.csdn.net/feiduclear_up/article/details/49080587  
   
 ## 优化相关  
 * Android OnLowMemory和OnTrimMemory --http://blog.csdn.net/zq13561411965/article/details/47907257  

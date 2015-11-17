@@ -13,5 +13,8 @@
 * 深入浅出理解Android Handler消息机制 --http://codecloud.net/android-handler-6351.html  
 * Android批量打包极速版 --http://ihongqiqu.com/blog/2015/07/16/android-mutiple-channel-build/  
 
+## 热修复
+* Android 热补丁动态修复框架小结 --http://blog.csdn.net/lmj623565791/article/details/49883661  
+
 ## 优化相关  
 * Android OnLowMemory和OnTrimMemory --http://blog.csdn.net/zq13561411965/article/details/47907257  

@@ -21,6 +21,8 @@
 * 
 * [阿里的文章 Android App 线上热修复方案](http://lirenlong.github.io/hotfix/)  
   * [阿里的 AndFix](https://github.com/alibaba/AndFix)  
+    * [Alibaba-AndFix Bug热修复框架的使用](http://blog.csdn.net/qxs965266509/article/details/49802429)  
+    * [Alibaba-AndFix Bug热修复框架原理及源码解析](http://blog.csdn.net/qxs965266509/article/details/49816007)
 
 ## 优化相关  
 * [Android OnLowMemory和OnTrimMemory](http://blog.csdn.net/zq13561411965/article/details/47907257)  

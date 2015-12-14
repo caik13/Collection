@@ -30,3 +30,9 @@
 
 ## 游戏  
 * [一个开源android游戏引擎](https://github.com/lfkdsk/JustWeEngine)
+
+## 好玩的布局  
+* [圆形布局](https://github.com/Danylo2006/LondonEyeLayoutManager)
+* 
+## 好玩的  
+* [获取地球实时照片做壁纸](https://github.com/bitdust/EarthLiveSharp)

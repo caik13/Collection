@@ -41,4 +41,4 @@
 * [衡量android开发者水平的面试问题-android学习之旅](http://blog.csdn.net/lpjishu/article/details/50316919)  
 
 ## 收集的视图效果
-* [画廊效果ViewPager 带缩放动画](https://github.com/caik13/Collection/MyViewPager)  
+* [画廊效果ViewPager 带缩放动画](https://github.com/caik13/Collection/tree/master/MyViewPager)  

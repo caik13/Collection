@@ -38,4 +38,7 @@
 * [获取地球实时照片做壁纸](https://github.com/bitdust/EarthLiveSharp)  
 * [卸载反馈](https://github.com/CharonChui/UninstallFeedback)  
 * [深入理解Android之dalvik](http://vdisk.weibo.com/s/z68f8l0xU7buA)
-* [衡量android开发者水平的面试问题-android学习之旅](http://blog.csdn.net/lpjishu/article/details/50316919)
+* [衡量android开发者水平的面试问题-android学习之旅](http://blog.csdn.net/lpjishu/article/details/50316919)  
+
+## 收集的视图效果
+* [画廊效果ViewPager 带缩放动画](https://github.com/caik13/Collection/MyViewPager)  

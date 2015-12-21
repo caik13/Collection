@@ -17,8 +17,8 @@
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  
 * QZone的热修复原理 [【新技能get】让App像Web一样发布新版本](http://bugly.qq.com/blog/?p=781)  
-  * 百度的同学的实现 [HotFix](https://github.com/dodola/HotFix)  
-  * 点评的同学的实现 [Nuwa](https://github.com/jasonross/Nuwa)  
+  * [百度的同学的实现 HotFix](https://github.com/dodola/HotFix)  
+  * [点评的同学的实现 Nuwa](https://github.com/jasonross/Nuwa)  
 * 
 * [阿里的文章 Android App 线上热修复方案](http://lirenlong.github.io/hotfix/)  
   * [阿里的 AndFix](https://github.com/alibaba/AndFix)  
@@ -32,8 +32,8 @@
 * [一个开源android游戏引擎](https://github.com/lfkdsk/JustWeEngine)
 
 ## 好玩的布局  
-* [圆形布局](https://github.com/Danylo2006/LondonEyeLayoutManager)
-* 
+* [圆形布局](https://github.com/Danylo2006/LondonEyeLayoutManager)  
+
 ## 好玩的  
 * [获取地球实时照片做壁纸](https://github.com/bitdust/EarthLiveSharp)  
 * [卸载反馈](https://github.com/CharonChui/UninstallFeedback)  

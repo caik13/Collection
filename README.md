@@ -13,6 +13,9 @@
 * [深入浅出理解Android Handler消息机制](http://codecloud.net/android-handler-6351.html)  
 * [Android批量打包极速版](http://ihongqiqu.com/blog/2015/07/16/android-mutiple-channel-build/)  
 * [Android ColorMatrix类图像颜色处理-黑白老照片、泛黄旧照片、高对比度等效果](http://blog.csdn.net/lpjishu/article/details/45533557)  
+* [Android 文件下载引擎，稳定、高效、简单易用](https://github.com/lingochamp/FileDownloader/blob/master/README-zh.md)  
+* [一款优美的加载器，根据进度设置加载效果](https://github.com/835127729/SuperLoadingProgress)  
+* [Library for playing gifs on Android](https://github.com/Cutta/GifView)  
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  
@@ -39,6 +42,7 @@
 * [卸载反馈](https://github.com/CharonChui/UninstallFeedback)  
 * [深入理解Android之dalvik](http://vdisk.weibo.com/s/z68f8l0xU7buA)
 * [衡量android开发者水平的面试问题-android学习之旅](http://blog.csdn.net/lpjishu/article/details/50316919)  
+* [灵活的github个人主页](https://github.com/zmmbreeze/octocard)  
 
 ## 收集的视图效果
 * [画廊效果ViewPager 带缩放动画](https://github.com/caik13/Collection/tree/master/MyViewPager)  

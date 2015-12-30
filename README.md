@@ -16,6 +16,7 @@
 * [Android 文件下载引擎，稳定、高效、简单易用](https://github.com/lingochamp/FileDownloader/blob/master/README-zh.md)  
 * [一款优美的加载器，根据进度设置加载效果](https://github.com/835127729/SuperLoadingProgress)  
 * [Library for playing gifs on Android](https://github.com/Cutta/GifView)  
+* [下一代Android渠道打包工具](https://github.com/mcxiaoke/packer-ng-plugin)  
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  

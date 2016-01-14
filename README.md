@@ -37,6 +37,7 @@
 
 ## 好玩的布局  
 * [圆形布局](https://github.com/Danylo2006/LondonEyeLayoutManager)  
+* [会动的密码](http://www.jianshu.com/p/897d9e3bc783)
 
 ## 好玩的  
 * [获取地球实时照片做壁纸](https://github.com/bitdust/EarthLiveSharp)  

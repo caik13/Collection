@@ -17,6 +17,7 @@
 * [一款优美的加载器，根据进度设置加载效果](https://github.com/835127729/SuperLoadingProgress)  
 * [Library for playing gifs on Android](https://github.com/Cutta/GifView)  
 * [下一代Android渠道打包工具](https://github.com/mcxiaoke/packer-ng-plugin)  
+* [WebView小结](http://www.jianshu.com/p/897d9e3bc783)  
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  
@@ -37,7 +38,7 @@
 
 ## 好玩的布局  
 * [圆形布局](https://github.com/Danylo2006/LondonEyeLayoutManager)  
-* [会动的密码](http://www.jianshu.com/p/897d9e3bc783)
+* [会动的密码](https://github.com/Rogero0o/PasswordLoadingView)  
 
 ## 好玩的  
 * [获取地球实时照片做壁纸](https://github.com/bitdust/EarthLiveSharp)  

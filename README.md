@@ -19,6 +19,7 @@
 * [下一代Android渠道打包工具](https://github.com/mcxiaoke/packer-ng-plugin)  
 * [WebView小结](http://www.jianshu.com/p/897d9e3bc783)  
 * [美团技术博客](http://tech.meituan.com/)
+* [仿手淘的倒计时](https://github.com/CaMnter/EasyCountDownTextureView)  
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  

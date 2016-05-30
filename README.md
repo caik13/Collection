@@ -27,6 +27,8 @@
 * QZone的热修复原理 [【新技能get】让App像Web一样发布新版本](http://bugly.qq.com/blog/?p=781)  
   * [百度的同学的实现 HotFix](https://github.com/dodola/HotFix)  
   * [点评的同学的实现 Nuwa](https://github.com/jasonross/Nuwa)  
+* [又一个热修复](https://github.com/dodola/RocooFix) 
+  
 * 
 * [阿里的文章 Android App 线上热修复方案](http://lirenlong.github.io/hotfix/)  
   * [阿里的 AndFix](https://github.com/alibaba/AndFix)  

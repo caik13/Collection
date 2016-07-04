@@ -54,3 +54,5 @@
 
 ## 收集的视图效果
 * [画廊效果ViewPager 带缩放动画](https://github.com/caik13/Collection/tree/master/MyViewPager)  
+* [一个用于app指向性功能高亮的库--那种遮罩的](https://github.com/hongyangAndroid/Highlight)  
+* [和上面这个一样的功能](https://github.com/worker8/TourGuide)

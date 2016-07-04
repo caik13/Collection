@@ -21,6 +21,7 @@
 * [美团技术博客](http://tech.meituan.com/)
 * [仿手淘的倒计时](https://github.com/CaMnter/EasyCountDownTextureView)  
 * [好看的解锁界面](https://github.com/Nightonke/BlurLockView)  
+* [教你怎么把手机加入白名单](https://github.com/lorcanluo/androidwhitelist)
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  

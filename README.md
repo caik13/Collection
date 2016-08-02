@@ -53,6 +53,10 @@
 * [深入理解Android之dalvik](http://vdisk.weibo.com/s/z68f8l0xU7buA)
 * [衡量android开发者水平的面试问题-android学习之旅](http://blog.csdn.net/lpjishu/article/details/50316919)  
 * [灵活的github个人主页](https://github.com/zmmbreeze/octocard)  
+* [tiwtter点赞效果1](https://github.com/xhamr/fave-button)
+* [tiwtter点赞效果2](https://github.com/jd-alexander/LikeButton)
+* [tiwtter点赞效果3](https://github.com/ChadCSong/ShineButton)
+* [tiwtter点赞效果4](https://github.com/frogermcs/LikeAnimation)
 
 ## 收集的视图效果
 * [画廊效果ViewPager 带缩放动画](https://github.com/caik13/Collection/tree/master/MyViewPager)  

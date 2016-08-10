@@ -23,6 +23,7 @@
 * [好看的解锁界面](https://github.com/Nightonke/BlurLockView)  
 * [教你怎么把手机加入白名单](https://github.com/lorcanluo/androidwhitelist)
 * [先加载模糊图片，再加载清晰图片](https://github.com/wingjay/BlurImageView)
+* [android svg view](https://github.com/geftimov/android-pathview)
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  

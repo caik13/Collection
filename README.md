@@ -63,3 +63,9 @@
 * [画廊效果ViewPager 带缩放动画](https://github.com/caik13/Collection/tree/master/MyViewPager)  
 * [一个用于app指向性功能高亮的库--那种遮罩的](https://github.com/hongyangAndroid/Highlight)  
 * [和上面这个一样的功能](https://github.com/worker8/TourGuide)
+* 
+
+* [好看的图标控件](https://github.com/mychoices/Jgraph)
+* [好用的linux软件](https://github.com/VoLuong/Awesome-Linux-Software)
+* [实时滤镜](https://github.com/nekocode/CameraFilter)
+* [类似gridview可拖拽排序](https://github.com/LightSun/android-drag-FlowLayout)

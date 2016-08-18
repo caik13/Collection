@@ -33,6 +33,10 @@
   * [百度的同学的实现 HotFix](https://github.com/dodola/HotFix)  
   * [点评的同学的实现 Nuwa](https://github.com/jasonross/Nuwa)  
 * [又一个热修复](https://github.com/dodola/RocooFix) 
+* 
+## 插件化开发
+* [掌阅](https://github.com/iReaderAndroid/ZeusPlugin)
+* [small](https://github.com/wequick/Small)
   
 * 
 * [阿里的文章 Android App 线上热修复方案](http://lirenlong.github.io/hotfix/)  

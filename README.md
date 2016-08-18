@@ -71,3 +71,7 @@
 * [好用的linux软件](https://github.com/VoLuong/Awesome-Linux-Software)
 * [实时滤镜](https://github.com/nekocode/CameraFilter)
 * [类似gridview可拖拽排序](https://github.com/LightSun/android-drag-FlowLayout)
+
+
+* [一个不错的viewpager实现banner广告轮播](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
+* [同上，轮播的效果很棒](https://github.com/chengdazhi/DecentBanner)

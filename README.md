@@ -37,6 +37,7 @@
 ## 插件化开发
 * [掌阅](https://github.com/iReaderAndroid/ZeusPlugin)
 * [small](https://github.com/wequick/Small)
+* [文章](http://www.jianshu.com/p/642a759051ea)
   
 * 
 * [阿里的文章 Android App 线上热修复方案](http://lirenlong.github.io/hotfix/)  

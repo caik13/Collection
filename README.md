@@ -65,6 +65,7 @@
 * [tiwtter点赞效果2](https://github.com/jd-alexander/LikeButton)
 * [tiwtter点赞效果3](https://github.com/ChadCSong/ShineButton)
 * [tiwtter点赞效果4](https://github.com/frogermcs/LikeAnimation)
+* [饿了么前端](https://github.com/ElemeFE)
 
 ## 收集的视图效果
 * [画廊效果ViewPager 带缩放动画](https://github.com/caik13/Collection/tree/master/MyViewPager)  

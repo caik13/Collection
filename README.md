@@ -26,6 +26,7 @@
 * [教你怎么把手机加入白名单](https://github.com/lorcanluo/androidwhitelist)
 * [先加载模糊图片，再加载清晰图片](https://github.com/wingjay/BlurImageView)
 * [android svg view](https://github.com/geftimov/android-pathview)
+* [动态权限申请](https://github.com/lypeer/FcPermissions)
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  
@@ -65,6 +66,7 @@
 * [tiwtter点赞效果2](https://github.com/jd-alexander/LikeButton)
 * [tiwtter点赞效果3](https://github.com/ChadCSong/ShineButton)
 * [tiwtter点赞效果4](https://github.com/frogermcs/LikeAnimation)
+* [代码阅读器](https://github.com/loopeer/code-reader)
 * [饿了么前端](https://github.com/ElemeFE)
 
 ## 收集的视图效果
@@ -82,6 +84,7 @@
 * [一个不错的viewpager实现banner广告轮播](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
 * [同上，轮播的效果很棒](https://github.com/chengdazhi/DecentBanner)
 
+* [仿支付宝芝麻信用分仪表盘效果](https://github.com/HotBitmapGG/CreditSesameRingView)
 
 ## 流媒体
 * [开源流媒体服务端](https://github.com/EasyDarwin/EasyDarwin)

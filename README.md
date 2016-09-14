@@ -27,6 +27,7 @@
 * [先加载模糊图片，再加载清晰图片](https://github.com/wingjay/BlurImageView)
 * [android svg view](https://github.com/geftimov/android-pathview)
 * [动态权限申请](https://github.com/lypeer/FcPermissions)
+* [超级漂亮的一个高亮功能提醒效果！](https://github.com/KeepSafe/TapTargetView)
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  

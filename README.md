@@ -1,5 +1,7 @@
 ## Collection
 
+### [全平台直播解决方案](https://github.com/AnyRTC/AnyRTC-RTMP)
+
 ### [随机跳转到一个v2ex博客](http://v2ex.chann.org/)
 
 * [如何获取 Android 设备的CPU核数、时钟频率以及内存大小](http://blog.csdn.net/feelang/article/details/46554095)  

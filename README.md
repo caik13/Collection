@@ -30,7 +30,8 @@
 * [android svg view](https://github.com/geftimov/android-pathview)
 * [动态权限申请](https://github.com/lypeer/FcPermissions)
 * [超级漂亮的一个高亮功能提醒效果！](https://github.com/KeepSafe/TapTargetView)
-
+* [应该还不错的网络请求封装](https://github.com/jeasonlzy/okhttp-OkGo)
+* [给你的app添加桌面角标想ios那样的（但是支持的设备有限）](https://github.com/leolin310148/ShortcutBadger)
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  
 * QZone的热修复原理 [【新技能get】让App像Web一样发布新版本](http://bugly.qq.com/blog/?p=781)  
@@ -88,6 +89,8 @@
 * [同上，轮播的效果很棒](https://github.com/chengdazhi/DecentBanner)
 
 * [仿支付宝芝麻信用分仪表盘效果](https://github.com/HotBitmapGG/CreditSesameRingView)
+
+* [效果不错的 recycleview  airbnb](https://github.com/airbnb/epoxy)
 
 ## 流媒体
 * [开源流媒体服务端](https://github.com/EasyDarwin/EasyDarwin)

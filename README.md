@@ -32,6 +32,7 @@
 * [超级漂亮的一个高亮功能提醒效果！](https://github.com/KeepSafe/TapTargetView)
 * [应该还不错的网络请求封装](https://github.com/jeasonlzy/okhttp-OkGo)
 * [给你的app添加桌面角标想ios那样的（但是支持的设备有限）](https://github.com/leolin310148/ShortcutBadger)
+* [最接近微信图片压缩](https://github.com/Curzibn/Luban)
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  

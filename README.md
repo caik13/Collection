@@ -33,6 +33,14 @@
 * [应该还不错的网络请求封装](https://github.com/jeasonlzy/okhttp-OkGo)
 * [给你的app添加桌面角标想ios那样的（但是支持的设备有限）](https://github.com/leolin310148/ShortcutBadger)
 * [最接近微信图片压缩](https://github.com/Curzibn/Luban)
+* [辐射view](https://github.com/DmitriyZaitsev/RadarChartView)
+* [google viewpager 指示器](https://github.com/ronaldsmartin/Material-ViewPagerIndicator)
+* [文字多种颜色](https://github.com/THEONE10211024/ColorPhrase)
+* [文字多种颜色view](https://github.com/zhonghanwen/ColorTextView)
+* [使AppBarLayout 可以弹性下拉的Behavior](https://github.com/ToDou/appbarlayout-spring-behavior)
+
+## 文章
+* [【经验分享】Android 事件分发机制详解](http://www.gcssloop.com/customview/dispatch-touchevent-source)
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  

@@ -38,6 +38,10 @@
 * [文字多种颜色](https://github.com/THEONE10211024/ColorPhrase)
 * [文字多种颜色view](https://github.com/zhonghanwen/ColorTextView)
 * [使AppBarLayout 可以弹性下拉的Behavior](https://github.com/ToDou/appbarlayout-spring-behavior)
+* [app 启动时的 Loading 动画](https://github.com/diamondlin2016/LauncherView)
+
+## 网络加载框架
+* [OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
 
 ## 文章
 * [【经验分享】Android 事件分发机制详解](http://www.gcssloop.com/customview/dispatch-touchevent-source)
@@ -82,6 +86,7 @@
 * [tiwtter点赞效果4](https://github.com/frogermcs/LikeAnimation)
 * [代码阅读器](https://github.com/loopeer/code-reader)
 * [饿了么前端](https://github.com/ElemeFE)
+* [Android版的"Fiddler"抓包](https://github.com/JZ-Darkal/AndroidHttpCapture)
 
 ## 收集的视图效果
 * [画廊效果ViewPager 带缩放动画](https://github.com/caik13/Collection/tree/master/MyViewPager)  

@@ -73,6 +73,7 @@
 ## 好玩的布局  
 * [圆形布局](https://github.com/Danylo2006/LondonEyeLayoutManager)  
 * [会动的密码](https://github.com/Rogero0o/PasswordLoadingView)  
+* [Yalantis出品 筛选](https://github.com/Yalantis/SearchFilter)
 
 ## 好玩的  
 * [获取地球实时照片做壁纸](https://github.com/bitdust/EarthLiveSharp)  

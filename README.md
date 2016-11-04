@@ -45,6 +45,7 @@
 
 ## 文章
 * [【经验分享】Android 事件分发机制详解](http://www.gcssloop.com/customview/dispatch-touchevent-source)
+* [【MotionEvent详解】目前最完整的一篇Android事件类型文章，真心不骗你](http://www.gcssloop.com/customview/motionevent)
 
 ## 热修复
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)  
@@ -107,6 +108,9 @@
 * [仿支付宝芝麻信用分仪表盘效果](https://github.com/HotBitmapGG/CreditSesameRingView)
 
 * [效果不错的 recycleview  airbnb](https://github.com/airbnb/epoxy)
+* [简单易用的可定制展开角度的button menu](https://github.com/uin3566/AllAngleExpandableButton)
+* [Android 仿业问 打字机效果 ](https://github.com/andyxialm/TyperEditText)
+* [一个能够让 View 执行漂亮的漂浮动画的库 ](https://github.com/UFreedom/FloatingView)
 
 ## 流媒体
 * [开源流媒体服务端](https://github.com/EasyDarwin/EasyDarwin)

@@ -114,3 +114,7 @@
 
 ## 流媒体
 * [开源流媒体服务端](https://github.com/EasyDarwin/EasyDarwin)
+
+## 项目
+* [App性能分析 lib](https://github.com/frogermcs/AndroidDevMetrics)
+* [Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包脚本+Dex异步加载) ](https://github.com/yydcdut/PhotoNoter)

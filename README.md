@@ -39,7 +39,7 @@
 * [文字多种颜色view](https://github.com/zhonghanwen/ColorTextView)
 * [使AppBarLayout 可以弹性下拉的Behavior](https://github.com/ToDou/appbarlayout-spring-behavior)
 * [app 启动时的 Loading 动画](https://github.com/diamondlin2016/LauncherView)
-
+* [基于RxJava打造的多线程下载工具, 支持断点续传下载管理等](https://github.com/ssseasonnn/RxDownload)
 ## 网络加载框架
 * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
 
@@ -89,6 +89,9 @@
 * [代码阅读器](https://github.com/loopeer/code-reader)
 * [饿了么前端](https://github.com/ElemeFE)
 * [Android版的"Fiddler"抓包](https://github.com/JZ-Darkal/AndroidHttpCapture)
+
+## 物联网
+* [开源 IoT 平台，设备管理，数据收集，处理和可视化](https://github.com/thingsboard/thingsboard)
 
 ## 收集的视图效果
 * [画廊效果ViewPager 带缩放动画](https://github.com/caik13/Collection/tree/master/MyViewPager)  

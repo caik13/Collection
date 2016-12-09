@@ -121,3 +121,14 @@
 ## 项目
 * [App性能分析 lib](https://github.com/frogermcs/AndroidDevMetrics)
 * [Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包脚本+Dex异步加载) ](https://github.com/yydcdut/PhotoNoter)
+
+
+## 
+* [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
+* [组件化、插件化、small源码解析](http://www.jianshu.com/users/cd0fe10b01d2/latest_articles)
+* [总结剑指offer中的各种算法面试题](http://blog.csdn.net/column/details/13357.html)
+* [实时预览的线上 Makrdown 编辑器 ](https://github.com/laobubu/MarkdownIME)
+* [基于 VUE 的移动UI](https://github.com/wangdahoo/vonic)
+* [完成度很高的一款 ePub Android 阅读器](https://github.com/FolioReader/FolioReader-Android)
+* [vue实现的markdown编辑器](https://github.com/egoist/eme)
+* [一套基于 Vue.js 的高质量 UI 组件库](https://www.iviewui.com/)

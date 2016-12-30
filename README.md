@@ -42,6 +42,9 @@
 * [基于RxJava打造的多线程下载工具, 支持断点续传下载管理等](https://github.com/ssseasonnn/RxDownload)
 * [Webview 伸缩 Toolbar 效果](https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview)
 * [客户端路由动态配置——可能是最简单的热更新方案](http://www.sixwolf.net/blog/2016/12/02/%E7%83%AD%E6%9B%B4%E6%96%B0%E6%96%B9%E6%A1%88%E4%B9%8B%E8%B7%AF%E7%94%B1%E5%8A%A8%E6%80%81%E9%85%8D%E7%BD%AE/)
+* [android管理字体](https://github.com/Ishmeetsingh97/FontometricsLibrary)
+* [可能是目前最简单、灵活的路由框架。](https://github.com/chenenyu/Router)
+* [H5唤起原生应用](http://ihongqiqu.com/2015/12/03/html-call-native-app/)
 
 ## 网络加载框架
 * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo)

@@ -45,6 +45,7 @@
 * [android管理字体](https://github.com/Ishmeetsingh97/FontometricsLibrary)
 * [可能是目前最简单、灵活的路由框架。](https://github.com/chenenyu/Router)
 * [H5唤起原生应用](http://ihongqiqu.com/2015/12/03/html-call-native-app/)
+* [仿小红书图片标签Group  图片上不同物品加tag](https://github.com/shellljx/TagViewGroup)
 
 ## 网络加载框架
 * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo)

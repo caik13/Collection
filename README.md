@@ -46,6 +46,7 @@
 * [可能是目前最简单、灵活的路由框架。](https://github.com/chenenyu/Router)
 * [H5唤起原生应用](http://ihongqiqu.com/2015/12/03/html-call-native-app/)
 * [仿小红书图片标签Group  图片上不同物品加tag](https://github.com/shellljx/TagViewGroup)
+* [Android 动态 Menu 菜单 Demo，做的很棒。](https://github.com/adonixis/android-animated-menu-items)
 
 ## 网络加载框架
 * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
@@ -96,6 +97,7 @@
 * [代码阅读器](https://github.com/loopeer/code-reader)
 * [饿了么前端](https://github.com/ElemeFE)
 * [Android版的"Fiddler"抓包](https://github.com/JZ-Darkal/AndroidHttpCapture)
+* [Aircrack-ng Android GUI程序，用于攻击无线网络。](https://github.com/chrisk44/Hijacker)
 
 ## 物联网
 * [开源 IoT 平台，设备管理，数据收集，处理和可视化](https://github.com/thingsboard/thingsboard)

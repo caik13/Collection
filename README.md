@@ -136,6 +136,9 @@
 * [Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包脚本+Dex异步加载) ](https://github.com/yydcdut/PhotoNoter)
 
 
+## 博客
+* [GAStudio](http://blog.csdn.net/tianjian4592)
+
 ## 
 * [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
 * [组件化、插件化、small源码解析](http://www.jianshu.com/users/cd0fe10b01d2/latest_articles)

@@ -160,6 +160,7 @@
 
 # 文件存储系统
 * [Fastdfs](https://github.com/happyfish100/fastdfs)
+  * [FastDFS原理系列文章](http://blog.csdn.net/hfty290?viewmode=contents)
   * [分布式存储fastDFS](https://www.gitbook.com/book/aceld/d-storage-fastdfs/details)
   * [分布式文件系统FastDFS架构剖析](http://history.programmer.com.cn/4380/)
   * [fastdfs 环境搭建使用及最佳实践](http://www.ixirong.com/2015/03/16/something-about-fastdfs/)

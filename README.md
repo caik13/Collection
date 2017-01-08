@@ -157,3 +157,12 @@
 
 # GOLANG
 * [动态生成随机像素风格头像！蛤，这个好玩儿！](https://github.com/o1egl/govatar)
+
+# 文件存储系统
+* [Fastdfs](https://github.com/happyfish100/fastdfs)
+  * [分布式存储fastDFS](https://www.gitbook.com/book/aceld/d-storage-fastdfs/details)
+  * [分布式文件系统FastDFS架构剖析](http://history.programmer.com.cn/4380/)
+  * [fastdfs 环境搭建使用及最佳实践](http://www.ixirong.com/2015/03/16/something-about-fastdfs/)
+  * [FastDFS 分布式存储实战 pdf](http://www.simlinux.com/books/FastDFS.pdf)
+  
+  

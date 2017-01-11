@@ -165,6 +165,7 @@
   * [分布式文件系统FastDFS架构剖析](http://history.programmer.com.cn/4380/)
   * [fastdfs 环境搭建使用及最佳实践](http://www.ixirong.com/2015/03/16/something-about-fastdfs/)
   * [FastDFS 分布式存储实战 pdf](http://www.simlinux.com/books/FastDFS.pdf)
-  * [FastDFS源码解析（1）--------源码目录介绍](http://weakyon.com/2014/09/01/analysis-of-source-code-for-fastdfs.html)
+  * [FastDFS源码解析（1）--------源码目录介绍](http://weakyon.com/2014/09/01/analysis-of-source-code-for-fastdfs.html)    
   
-  
+* [bfs](https://github.com/Terry-Mao/bfs)
+  * [bfs:支撑Bilibili的小文件存储系统](http://www.360doc.com/content/16/0411/16/30291625_549757723.shtml)

@@ -56,6 +56,7 @@
 * [仿小红书图片标签Group  图片上不同物品加tag](https://github.com/shellljx/TagViewGroup)
 * [Android 动态 Menu 菜单 Demo，做的很棒。](https://github.com/adonixis/android-animated-menu-items)
 * [美化原生 Toast](https://github.com/GrenderG/Toasty)
+* [webview相关配置](http://www.2cto.com/kf/201411/354679.html)
 
 ## 网络加载框架
 * [OkGo](https://github.com/jeasonlzy/okhttp-OkGo)

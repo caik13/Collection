@@ -11,6 +11,8 @@
 
 [AndroidChromium](https://github.com/JackyAndroid/AndroidChromium)
 
+[一个Android开发者为面试准备的知识点总结 ](https://github.com/bboylin/MyNotebook)
+
 
 
 * [仿豌豆荚首页导航实现](https://github.com/YeDaxia/WanDaoJiaIndex)

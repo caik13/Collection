@@ -65,6 +65,7 @@
 * [倒计时控件--解耦良好，可自由扩展](https://github.com/fashare2015/TimerView)
 * [倒计时控件](https://github.com/iwgang/CountdownView)
 * [简单易用的照相机](https://github.com/florent37/CameraFragment)
+* [Android 室内场景构建组件，帮你快速的完成室内场景 View 的展示](https://github.com/karonl/InDoorSurfaceView)
 
 
 ## 网络加载框架

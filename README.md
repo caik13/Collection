@@ -14,6 +14,7 @@
 [一个Android开发者为面试准备的知识点总结 ](https://github.com/bboylin/MyNotebook)
 
 [找到阻碍你 Android App 性能的罪魁祸首！ ](https://github.com/seiginonakama/BlockCanaryEx)
+[开源的类 PostMan，API 管理工具，强烈推荐。](https://github.com/getinsomnia/insomnia)
 
 * [仿豌豆荚首页导航实现](https://github.com/YeDaxia/WanDaoJiaIndex)
 * [如何获取 Android 设备的CPU核数、时钟频率以及内存大小](http://blog.csdn.net/feelang/article/details/46554095)  

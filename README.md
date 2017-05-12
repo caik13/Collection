@@ -17,6 +17,7 @@
 [开源的类 PostMan，API 管理工具，强烈推荐。](https://github.com/getinsomnia/insomnia)
 [MD风格的搜索view](https://github.com/MiguelCatalan/MaterialSearchView)
 [图片择优（选择最清楚的图片) 没有使用第三方库](https://github.com/Niekon/FuzzyDetection)
+[从没见过这么浮夸的动画效果，出乎你意料](http://tholman.com/obnoxious/)
 
 * [仿豌豆荚首页导航实现](https://github.com/YeDaxia/WanDaoJiaIndex)
 * [如何获取 Android 设备的CPU核数、时钟频率以及内存大小](http://blog.csdn.net/feelang/article/details/46554095)  

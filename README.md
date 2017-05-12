@@ -16,6 +16,7 @@
 [找到阻碍你 Android App 性能的罪魁祸首！ ](https://github.com/seiginonakama/BlockCanaryEx)
 [开源的类 PostMan，API 管理工具，强烈推荐。](https://github.com/getinsomnia/insomnia)
 [MD风格的搜索view](https://github.com/MiguelCatalan/MaterialSearchView)
+[图片择优（选择最清楚的图片) 没有使用第三方库](https://github.com/Niekon/FuzzyDetection)
 
 * [仿豌豆荚首页导航实现](https://github.com/YeDaxia/WanDaoJiaIndex)
 * [如何获取 Android 设备的CPU核数、时钟频率以及内存大小](http://blog.csdn.net/feelang/article/details/46554095)  

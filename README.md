@@ -13,11 +13,11 @@
 
 [一个Android开发者为面试准备的知识点总结 ](https://github.com/bboylin/MyNotebook)
 
-[找到阻碍你 Android App 性能的罪魁祸首！ ](https://github.com/seiginonakama/BlockCanaryEx)
-[开源的类 PostMan，API 管理工具，强烈推荐。](https://github.com/getinsomnia/insomnia)
-[MD风格的搜索view](https://github.com/MiguelCatalan/MaterialSearchView)
-[图片择优（选择最清楚的图片) 没有使用第三方库](https://github.com/Niekon/FuzzyDetection)
-[从没见过这么浮夸的动画效果，出乎你意料](http://tholman.com/obnoxious/)
+[找到阻碍你 Android App 性能的罪魁祸首！ ](https://github.com/seiginonakama/BlockCanaryEx)    
+[开源的类 PostMan，API 管理工具，强烈推荐。](https://github.com/getinsomnia/insomnia)    
+[MD风格的搜索view](https://github.com/MiguelCatalan/MaterialSearchView)    
+[图片择优（选择最清楚的图片) 没有使用第三方库](https://github.com/Niekon/FuzzyDetection)    
+[从没见过这么浮夸的动画效果，出乎你意料](http://tholman.com/obnoxious/)    
 
 * [仿豌豆荚首页导航实现](https://github.com/YeDaxia/WanDaoJiaIndex)
 * [如何获取 Android 设备的CPU核数、时钟频率以及内存大小](http://blog.csdn.net/feelang/article/details/46554095)  
@@ -70,6 +70,8 @@
 * [倒计时控件](https://github.com/iwgang/CountdownView)
 * [简单易用的照相机](https://github.com/florent37/CameraFragment)
 * [Android 室内场景构建组件，帮你快速的完成室内场景 View 的展示](https://github.com/karonl/InDoorSurfaceView)
+* [横向堆叠效果的自定义Layout ](https://github.com/xmuSistone/android-pile-layout)
+* [rxjava动态切换主题](https://github.com/afollestad/aesthetic)
 
 
 ## 网络加载框架
@@ -99,6 +101,8 @@
 
 ## 优化相关  
 * [Android OnLowMemory和OnTrimMemory](http://blog.csdn.net/zq13561411965/article/details/47907257)  
+* [Android性能优化（九）之被忽视的电量](https://mp.weixin.qq.com/s?__biz=MzI3OTU3OTQ1Mw==&mid=2247483773&idx=1&sn=e7756fbd318aeadd77cf16251450f8aa&chksm=eb44df2fdc3356399c2518df6ecc14473266be608da4d14368a7a7f01bed8a6020a086ddc5ee&mpshare=1&scene=23&srcid=0515azWSHTyEo0IV32hU41rG#rd)
+* [Android setContentView源码分析](http://rkhcy.github.io/2017/05/16/setContentView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
 ## 游戏  
 * [一个开源android游戏引擎](https://github.com/lfkdsk/JustWeEngine)
@@ -122,6 +126,8 @@
 * [饿了么前端](https://github.com/ElemeFE)
 * [Android版的"Fiddler"抓包](https://github.com/JZ-Darkal/AndroidHttpCapture)
 * [Aircrack-ng Android GUI程序，用于攻击无线网络。](https://github.com/chrisk44/Hijacker)
+* [Android灵魂画家的18种混合模式](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484408&idx=1&sn=cd077ffe234b15c6c8a193def53fc963&chksm=96cda2b5a1ba2ba387c910df7b864580f6f5858691bcecb46afe2b8a91684ab804879f01d905&mpshare=1&scene=23&srcid=0515GJX6SNr5N7p6B7bkqG1y#rd)
+* [Java 技术之类加载机制](http://wingjay.com/2017/05/08/java_classloader/)
 
 ## 物联网
 * [开源 IoT 平台，设备管理，数据收集，处理和可视化](https://github.com/thingsboard/thingsboard)

@@ -9,6 +9,8 @@
 ### 博客收集    
 * [wing](http://androidwing.net/index.php/70)    
 
+[vue2 + webpack2...](https://github.com/CommanderXL/x-blog)
+
 [AndroidChromium](https://github.com/JackyAndroid/AndroidChromium)
 
 [一个Android开发者为面试准备的知识点总结 ](https://github.com/bboylin/MyNotebook)

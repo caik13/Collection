@@ -160,6 +160,14 @@
 * [AndRouter](https://github.com/campusappcn/AndRouter)
 * [Router](https://github.com/chenenyu/Router)
 
+## Android图片压缩
+* [Tiny](https://github.com/Sunzxyong/Tiny)
+* [Luban](https://github.com/Curzibn/Luban)
+* [CompressHelper](https://github.com/nanchen2251/CompressHelper)
+* [AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban)
+
+
+[仿微信图片选择](https://github.com/jeasonlzy/ImagePicker)
 
 ## 流媒体
 * [开源流媒体服务端](https://github.com/EasyDarwin/EasyDarwin)

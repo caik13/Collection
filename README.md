@@ -117,6 +117,7 @@
 * [Yalantis出品 筛选](https://github.com/Yalantis/SearchFilter)
 
 ## 好玩的  
+* [微群控， 电脑统一控制多台Android设备](https://github.com/zhongxia245/weiqunkong)
 * [获取地球实时照片做壁纸](https://github.com/bitdust/EarthLiveSharp)  
 * [卸载反馈](https://github.com/CharonChui/UninstallFeedback)  
 * [深入理解Android之dalvik](http://vdisk.weibo.com/s/z68f8l0xU7buA)
@@ -132,6 +133,8 @@
 * [Aircrack-ng Android GUI程序，用于攻击无线网络。](https://github.com/chrisk44/Hijacker)
 * [Android灵魂画家的18种混合模式](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484408&idx=1&sn=cd077ffe234b15c6c8a193def53fc963&chksm=96cda2b5a1ba2ba387c910df7b864580f6f5858691bcecb46afe2b8a91684ab804879f01d905&mpshare=1&scene=23&srcid=0515GJX6SNr5N7p6B7bkqG1y#rd)
 * [Java 技术之类加载机制](http://wingjay.com/2017/05/08/java_classloader/)
+* [防撤回神器 !](https://github.com/JasonQS/Anti-recall)
+* [用OpenGL实现的酷炫动画](https://github.com/gplibs/android-magic-surface-view)
 
 ## 物联网
 * [开源 IoT 平台，设备管理，数据收集，处理和可视化](https://github.com/thingsboard/thingsboard)

@@ -76,6 +76,7 @@
 * [Android 室内场景构建组件，帮你快速的完成室内场景 View 的展示](https://github.com/karonl/InDoorSurfaceView)
 * [横向堆叠效果的自定义Layout ](https://github.com/xmuSistone/android-pile-layout)
 * [rxjava动态切换主题](https://github.com/afollestad/aesthetic)
+* [android 4.4以上沉浸式状态栏和沉浸式导航栏管理，一句代码轻松实现，以及对bar的其他设置](https://github.com/gyf-dev/ImmersionBar)
 
 
 ## 网络加载框架

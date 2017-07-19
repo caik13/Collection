@@ -1,5 +1,8 @@
 ## Collection
 
+[android沉浸式](https://github.com/matrixxun/ImmersiveDetailSample)
+[android沉浸式](https://github.com/gyf-dev/ImmersionBar)
+
 [kotlin MVP](https://github.com/nekocode/Kotlin-Android-Template)
 
 ### [全平台直播解决方案](https://github.com/AnyRTC/AnyRTC-RTMP)

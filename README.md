@@ -1,7 +1,7 @@
 ## Collection
 
-[android沉浸式](https://github.com/matrixxun/ImmersiveDetailSample)
-[android沉浸式](https://github.com/gyf-dev/ImmersionBar)
+[android沉浸式1](https://github.com/matrixxun/ImmersiveDetailSample)    
+[android沉浸式2](https://github.com/gyf-dev/ImmersionBar)
 
 [kotlin MVP](https://github.com/nekocode/Kotlin-Android-Template)
 

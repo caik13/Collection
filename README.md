@@ -1,5 +1,8 @@
 ## Collection
 
+[一种在Web UI上协同编辑本地文件的服务](https://github.com/Jeffail/leaps)
+[线程安全的 SharedPreferences](https://github.com/grandcentrix/tray)
+
 [android沉浸式1](https://github.com/matrixxun/ImmersiveDetailSample)    
 [android沉浸式2](https://github.com/gyf-dev/ImmersionBar)
 

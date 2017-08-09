@@ -228,3 +228,6 @@
 
 # GOLANG
 * [Golang 跨平台自动系统，控制键盘鼠标位图和读取屏幕,窗口句柄以及全局事件监听](https://github.com/go-vgo/robotgo/blob/master/README_zh.md)
+
+
+[Android通过.nomedia文件禁止多媒体库扫描指定文件夹下的多媒体文件](https://zmywly8866.github.io/2016/05/05/android-disable-mediascanner-folders.html)

@@ -239,3 +239,10 @@
 * [封装的很好的webview](https://github.com/Justson/AgentWeb)
 * [360大神的SafeWebView](https://github.com/seven456/SafeWebView)
 * [大头鬼的JsBridge](https://github.com/lzyzsd/JsBridge)
+
+
+# Hybrid
+* [VasSonic 腾讯开源的](https://github.com/Tencent/VasSonic)
+
+
+[京东Android组件化框架Aura介绍之一：总体介绍](https://mp.weixin.qq.com/s/w6bVbcJhjdgMiTvFtEUGQA)

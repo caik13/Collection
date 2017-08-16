@@ -246,3 +246,7 @@
 
 
 [京东Android组件化框架Aura介绍之一：总体介绍](https://mp.weixin.qq.com/s/w6bVbcJhjdgMiTvFtEUGQA)
+
+# RESTful HTTP
+* [用于构建RESTful HTTP+JSON API的有用资源集合。](https://github.com/yosriady/api-development-tools)
+* [开发安全的 API 所需要核对的清单](https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md)

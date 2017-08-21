@@ -1,5 +1,7 @@
 ## Collection
 
+[Android 富文本编辑器（UI仿WPS） ](https://github.com/Even201314/MRichEditor)
+
 [gpuimage](https://github.com/CyberAgent/android-gpuimage)
 
 [android游戏开源项目 沙漠风暴](https://github.com/HurTeng/StormPlane)

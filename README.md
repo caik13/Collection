@@ -1,6 +1,7 @@
 ## Collection
 
 [Android 富文本编辑器（UI仿WPS） ](https://github.com/Even201314/MRichEditor)
+[wifi](https://github.com/BirdGuo/WifiConnHelper)
 
 [gpuimage](https://github.com/CyberAgent/android-gpuimage)
 

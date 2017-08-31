@@ -1,5 +1,7 @@
 ## Collection
 
+[activity滑动返回](https://github.com/gongwen/SwipeBackLayout)
+
 [分享 GitHub 上有趣、入门级的开源项目。 ](https://github.com/521xueweihan/HelloGitHub)
 
 [Android 富文本编辑器（UI仿WPS） ](https://github.com/Even201314/MRichEditor)

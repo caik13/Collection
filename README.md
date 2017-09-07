@@ -227,6 +227,7 @@
 # GOLANG
 * [动态生成随机像素风格头像！蛤，这个好玩儿！](https://github.com/o1egl/govatar)
 * [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
+* [html解析](https://github.com/PuerkitoBio/goquery)
 
 # 文件存储系统
 * [Fastdfs](https://github.com/happyfish100/fastdfs)

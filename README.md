@@ -269,3 +269,4 @@
 
 # c#
 * [A toolkit for creating Metro / Modern UI styled WPF apps.](https://github.com/MahApps/MahApps.Metro)
+* [嵌入引用作为资源](https://github.com/Fody/Costura)

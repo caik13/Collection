@@ -38,6 +38,7 @@
 ### 区块链
 * [区块链技术指南](https://github.com/yeasy/blockchain_guide)
 * [汪晓明对区块链、以太坊的思考](http://wangxiaoming.com/)
+* [精通比特币](http://zhibimo.com/read/wang-miao/mastering-bitcoin/index.html)
     
 ### 博客收集    
 * [wing](http://androidwing.net/index.php/70)    

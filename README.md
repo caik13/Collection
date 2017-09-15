@@ -33,6 +33,10 @@
 ### [随机跳转到一个v2ex博客](http://v2ex.chann.org/)    
 
 [AR资料汇总](https://github.com/GeekLiB/AR-Source)
+
+
+### 区块链
+* [区块链技术指南](https://github.com/yeasy/blockchain_guide)
     
 ### 博客收集    
 * [wing](http://androidwing.net/index.php/70)    

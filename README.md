@@ -278,3 +278,7 @@
 # c#
 * [A toolkit for creating Metro / Modern UI styled WPF apps.](https://github.com/MahApps/MahApps.Metro)
 * [嵌入引用作为资源](https://github.com/Fody/Costura)
+
+# WPF
+* [Modern UI for WPF 黑色的很好看](https://github.com/firstfloorsoftware/mui)
+* [MaterialDesign](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)

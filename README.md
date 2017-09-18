@@ -282,3 +282,6 @@
 # WPF
 * [Modern UI for WPF 黑色的很好看](https://github.com/firstfloorsoftware/mui)
 * [MaterialDesign](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)
+
+# Kotlin
+* [Kotlin 中文文档](https://www.gitbook.com/book/hltj/kotlin-reference-chinese/details)

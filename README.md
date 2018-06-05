@@ -295,6 +295,6 @@
 * [自己动手做聊天机器人教程](https://github.com/warmheartli/ChatBotCourse)
 
 # 直播
-[来疯直播安卓控件，支持flv，支持rtmp，支持添加视频特效等等](https://github.com/LaiFeng-Android/SopCastComponent)
+[来疯直播安卓控件，支持flv，支持rtmp，支持添加视频特效等等](https://github.com/LaiFeng-Android/SopCastComponent)    
 [yasea](https://github.com/begeekmyfriend/yasea)    
 

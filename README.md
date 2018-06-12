@@ -199,6 +199,9 @@
 * [Android 仿业问 打字机效果 ](https://github.com/andyxialm/TyperEditText)
 * [一个能够让 View 执行漂亮的漂浮动画的库 ](https://github.com/UFreedom/FloatingView)
 
+## Android源码解析
+[Android源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
+
 ## Android路由
 * [ActivityRouter](https://github.com/mzule/ActivityRouter)
 * [Router](https://github.com/yjfnypeu/Router)

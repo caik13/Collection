@@ -212,7 +212,8 @@
 * [Tiny](https://github.com/Sunzxyong/Tiny)
 * [Luban](https://github.com/Curzibn/Luban)
 * [CompressHelper](https://github.com/nanchen2251/CompressHelper)
-* [AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban)
+* [AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban)    
+* [Biscuit](https://github.com/pruas/Biscuit)    
 
 
 [仿微信图片选择](https://github.com/jeasonlzy/ImagePicker)

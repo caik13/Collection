@@ -221,6 +221,8 @@
 ## Android 下载
 * [JarvisDownloader 支持断点续传下载](https://github.com/yuwenque/JarvisDownloader)     
 
+## Android    
+* [AnyPref -- SharedPreferences实用工具类](https://github.com/NashLegend/AnyPref)    
 
 
 

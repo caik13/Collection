@@ -218,6 +218,13 @@
 
 [仿微信图片选择](https://github.com/jeasonlzy/ImagePicker)
 
+## Android 下载
+* [JarvisDownloader 支持断点续传下载](https://github.com/yuwenque/JarvisDownloader)     
+
+
+
+
+
 ## 流媒体
 * [开源流媒体服务端](https://github.com/EasyDarwin/EasyDarwin)
 

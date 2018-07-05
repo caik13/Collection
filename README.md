@@ -18,6 +18,7 @@
 
 [wifi](https://github.com/BirdGuo/WifiConnHelper)
 
+[一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux），包括 VIP 资源](https://github.com/phobal/ivideo)
 
 
 [gpuimage](https://github.com/CyberAgent/android-gpuimage)

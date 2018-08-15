@@ -1,6 +1,9 @@
 ## Collection
 [杭州买房](https://github.com/houshanren/hangzhou_house_knowledge)    
 
+[简悦 chrome阅读模式插件](https://github.com/Kenshin/simpread)
+
+
 [直播相关资料](https://github.com/DyncLang/DevLiveBook)
 
 [开源的人工智能聊天](https://github.com/fossasia)

@@ -321,3 +321,5 @@
 [livego直播服务端](https://github.com/runner365/livego)    
 [srs直播服务器](https://github.com/ossrs/srs)    
 
+# 小程序
+[NideShop 开源微信小程序商城服务端](https://github.com/tumobi/nideshop)

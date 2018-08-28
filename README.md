@@ -1,4 +1,6 @@
 ## Collection
+[IntelliJ系列破解](http://idea.lanyus.com/)
+
 [杭州买房](https://github.com/houshanren/hangzhou_house_knowledge)    
 
 [简悦 chrome阅读模式插件](https://github.com/Kenshin/simpread)

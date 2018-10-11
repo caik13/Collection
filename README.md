@@ -159,7 +159,8 @@
 ## 好玩的布局  
 * [圆形布局](https://github.com/Danylo2006/LondonEyeLayoutManager)  
 * [会动的密码](https://github.com/Rogero0o/PasswordLoadingView)  
-* [Yalantis出品 筛选](https://github.com/Yalantis/SearchFilter)
+* [Yalantis出品 筛选](https://github.com/Yalantis/SearchFilter)    
+* [淘宝详情页](https://github.com/LineChen/TwoPageLayout)
 
 ## 好玩的  
 * [微群控， 电脑统一控制多台Android设备](https://github.com/zhongxia245/weiqunkong)

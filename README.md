@@ -326,3 +326,8 @@
 
 # 小程序
 [NideShop 开源微信小程序商城服务端](https://github.com/tumobi/nideshop)
+
+# Android 显示3D模型
+https://github.com/DymanZy/EasyShow3D    
+https://github.com/andresoviedo/android-3D-model-viewer    
+jpct-ae    

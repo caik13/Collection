@@ -5,6 +5,7 @@
 
 [简悦 chrome阅读模式插件](https://github.com/Kenshin/simpread)
 
+[android 截图](https://github.com/Muddz/PixelShot)
 
 [直播相关资料](https://github.com/DyncLang/DevLiveBook)
 

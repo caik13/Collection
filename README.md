@@ -352,3 +352,4 @@ https://github.com/leeenx/popstar
 [别人自己写的一些小游戏](https://github.com/liusaint/games)    
 [Chinese kinship system.中国亲戚关系计算器 - 家庭称谓/称呼计算/亲戚关系算法](https://github.com/mumuy/relationship)    
 [五子棋游戏实现](https://github.com/caobotao/Wuziqi)    
+[微信小程序 小游戏合集](https://github.com/Data-Camp/WeApp_Demos)

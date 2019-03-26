@@ -3,6 +3,11 @@
 
 [杭州买房](https://github.com/houshanren/hangzhou_house_knowledge)    
 
+
+[音频播放库](https://github.com/EspoirX/StarrySky)    
+
+[组件化文章 写的很好](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84/02.Android%E7%BB%84%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5%E5%92%8C%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB.md)    
+
 [简悦 chrome阅读模式插件](https://github.com/Kenshin/simpread)
 
 [android 截图](https://github.com/Muddz/PixelShot)

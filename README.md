@@ -3,7 +3,6 @@
 
 [杭州买房](https://github.com/houshanren/hangzhou_house_knowledge)    
 
-
 [音频播放库](https://github.com/EspoirX/StarrySky)    
 
 [组件化文章 写的很好](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84/02.Android%E7%BB%84%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5%E5%92%8C%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB.md)    
@@ -337,3 +336,19 @@
 https://github.com/DymanZy/EasyShow3D    
 https://github.com/andresoviedo/android-3D-model-viewer    
 jpct-ae    
+
+
+
+# 游戏
+[目录](https://github.com/search?p=7&q=%E6%B8%B8%E6%88%8F&type=Repositories)
+
+[开源库挺不错的一个人](https://github.com/mumuy?tab=repositories)    
+https://github.com/leeenx/popstar
+[Nodejs《你画我猜》游戏](https://github.com/Wscats/socket.io)    
+[HTML5小游戏](https://github.com/OsBelief/Cocos2d-JS-Game)    
+[吃豆游戏](https://github.com/mumuy/pacman)    
+[贪吃蛇](https://github.com/yanhaijing/snake)    
+[网红旋转飞刀手](https://github.com/xfcf1/kunai)    
+[别人自己写的一些小游戏](https://github.com/liusaint/games)    
+[Chinese kinship system.中国亲戚关系计算器 - 家庭称谓/称呼计算/亲戚关系算法](https://github.com/mumuy/relationship)    
+[五子棋游戏实现](https://github.com/caobotao/Wuziqi)    

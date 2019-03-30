@@ -288,6 +288,7 @@
 * [Golang 跨平台自动系统，控制键盘鼠标位图和读取屏幕,窗口句柄以及全局事件监听](https://github.com/go-vgo/robotgo/blob/master/README_zh.md)    
 * [lirc(golang 收发红外线 通过lirc)](https://github.com/chbmuc/lirc)    
 * [lirc-web-api](https://github.com/ww24/lirc-web-api)    
+* [优秀的 Go存储开源项目和库](https://yushuangqi.com/blog/2017/you-xiu-de-go-cun-chu-kai-yuan-xiang-mu-he-ku.html)
 
 
 

@@ -1,6 +1,8 @@
 ## Collection
 [IntelliJ系列破解](http://idea.lanyus.com/)
 
+[阿里妈妈的淘宝联盟 控制](https://github.com/546669204/taobaoke)    
+
 [杭州买房](https://github.com/houshanren/hangzhou_house_knowledge)    
 
 [音频播放库](https://github.com/EspoirX/StarrySky)    

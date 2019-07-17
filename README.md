@@ -358,3 +358,6 @@ https://github.com/leeenx/popstar
 [Chinese kinship system.中国亲戚关系计算器 - 家庭称谓/称呼计算/亲戚关系算法](https://github.com/mumuy/relationship)    
 [五子棋游戏实现](https://github.com/caobotao/Wuziqi)    
 [微信小程序 小游戏合集](https://github.com/Data-Camp/WeApp_Demos)
+    
+# Flutter
+[蓝牙插件](https://github.com/pauldemarco/flutter_blue)

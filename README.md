@@ -361,3 +361,12 @@ https://github.com/leeenx/popstar
     
 # Flutter
 [蓝牙插件](https://github.com/pauldemarco/flutter_blue)
+
+
+# Cocos Creator
+https://github.com/potato47/so-many-games    
+https://www.jianshu.com/p/90830dcc7341    
+https://www.jianshu.com/p/dd4facab5318    
+https://www.jianshu.com/p/a31d60dafef9    
+https://www.ctolib.com/Cocos_Basement.html    
+

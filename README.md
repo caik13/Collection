@@ -370,3 +370,11 @@ https://www.jianshu.com/p/dd4facab5318
 https://www.jianshu.com/p/a31d60dafef9    
 https://www.ctolib.com/Cocos_Basement.html    
 
+# 游戏服务器
+[中文游戏服务器资源大全](https://github.com/hstcscolor/awesome-gameserver-cn)    
+https://github.com/Golangltd/LollipopGo    
+[mqant是一款基于Golang语言的简洁,高效,高性能的分布式游戏服务器框架](https://github.com/liangdas/mqant)    
+[高性能golang网络库，游戏开发脚手架](https://github.com/viphxin/xingo)    
+[可扩展的分布式游戏服务器引擎，在Golang中进行热插拔](https://github.com/xiaonanln/goworld)    
+[leaf](https://github.com/name5566/leaf)    
+

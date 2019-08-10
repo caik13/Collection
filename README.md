@@ -377,5 +377,6 @@ https://github.com/Golangltd/LollipopGo
 [高性能golang网络库，游戏开发脚手架](https://github.com/viphxin/xingo)    
 [可扩展的分布式游戏服务器引擎，在Golang中进行热插拔](https://github.com/xiaonanln/goworld)    
 [leaf](https://github.com/name5566/leaf)    
-[CC游戏案例之 组队吃鸡](https://github.com/matchvs/BirdWar)
+[CC游戏案例之 组队吃鸡](https://github.com/matchvs/BirdWar)     
+[教程资源集合](https://forum.cocos.com/t/creator-3-31/39917)
 

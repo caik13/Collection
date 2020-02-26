@@ -383,3 +383,6 @@ https://github.com/Golangltd/LollipopGo
 [CC游戏案例之 组队吃鸡](https://github.com/matchvs/BirdWar)     
 [教程资源集合](https://forum.cocos.com/t/creator-3-31/39917)
 
+# Flutter 游戏
+[炸弹人](https://github.com/hotstu/flutter_BananaMon)
+[flame 2D 游戏引擎](https://github.com/flame-engine/flame)

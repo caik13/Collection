@@ -1,6 +1,8 @@
 ## Collection
 [IntelliJ系列破解](http://idea.lanyus.com/)    
 
+[简阅](https://github.com/kenshin/simpread)    
+
 [桌面宠物](https://github.com/zenghongtu/PPet)
 
 [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)    

@@ -1,4 +1,5 @@
 ## Collection
+[IntelliJ系列最好用破解](https://github.com/wenyanjun/free-code)
 [IntelliJ系列破解](http://idea.lanyus.com/)    
 
 [简阅](https://github.com/kenshin/simpread)    

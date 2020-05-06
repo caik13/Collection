@@ -4,6 +4,8 @@
 
 [简阅](https://github.com/kenshin/simpread)    
 
+[微信机器人](https://github.com/wechaty/wechaty)    
+
 [桌面宠物](https://github.com/zenghongtu/PPet)
 
 [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)    

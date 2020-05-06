@@ -393,3 +393,7 @@ https://github.com/Golangltd/LollipopGo
 # Flutter 游戏
 [炸弹人](https://github.com/hotstu/flutter_BananaMon)
 [flame 2D 游戏引擎](https://github.com/flame-engine/flame)
+
+# 微信
+[windows python](https://github.com/Mocha-L/WechatPCAPI)
+[windows c++](https://github.com/TonyChen56/WeChatRobot)

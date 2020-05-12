@@ -397,3 +397,4 @@ https://github.com/Golangltd/LollipopGo
 # 微信
 [windows python](https://github.com/Mocha-L/WechatPCAPI)
 [windows c++](https://github.com/TonyChen56/WeChatRobot)
+https://github.com/anhkgg/SuperWeChatPC

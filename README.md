@@ -2,6 +2,8 @@
 [IntelliJ系列最好用破解](https://github.com/wenyanjun/free-code)
 [IntelliJ系列破解](http://idea.lanyus.com/)    
 
+https://github.com/soapyigu/Swift-30-Projects
+
 [简阅](https://github.com/kenshin/simpread)    
 
 [微信机器人](https://github.com/wechaty/wechaty)    

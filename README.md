@@ -3,6 +3,7 @@
 [IntelliJ系列破解](http://idea.lanyus.com/)    
 
 [照片修复](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)    
+[钢琴](https://github.com/Wscats/piano)    
 
 [golang抽奖](https://github.com/goodcan/go-lottery)    
 

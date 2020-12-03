@@ -5,6 +5,12 @@
 [照片修复](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)    
 [钢琴](https://github.com/Wscats/piano)    
 [mac电脑状态监控 挺好看的](https://github.com/gao-sun/eul)    
+[mac电脑状态监控 挺好看的2](https://github.com/exelban/stats)    
+[开源图标](https://github.com/tabler/tabler-icons)    
+[开源图标2](https://github.com/bytedance/IconPark)    
+[设计和测试虚拟3d键盘](https://github.com/crsnbrt/keysim)    
+[用go语言画架构图](https://github.com/blushft/go-diagrams)    
+[ai对联](https://github.com/wb14123/seq2seq-couplet)    
 
 [golang抽奖](https://github.com/goodcan/go-lottery)    
 

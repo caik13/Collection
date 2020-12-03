@@ -4,6 +4,7 @@
 
 [照片修复](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)    
 [钢琴](https://github.com/Wscats/piano)    
+[mac电脑状态监控 挺好看的](https://github.com/gao-sun/eul)    
 
 [golang抽奖](https://github.com/goodcan/go-lottery)    
 

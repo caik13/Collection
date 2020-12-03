@@ -2,6 +2,8 @@
 [IntelliJ系列最好用破解](https://github.com/wenyanjun/free-code)
 [IntelliJ系列破解](http://idea.lanyus.com/)    
 
+[照片修复](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)    
+
 [golang抽奖](https://github.com/goodcan/go-lottery)    
 
 https://github.com/soapyigu/Swift-30-Projects

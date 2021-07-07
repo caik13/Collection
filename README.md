@@ -1,4 +1,6 @@
 ## Collection
+[游戏程序员的读书笔记](https://github.com/QianMo/Game-Programmer-Study-Notes)
+
 [IntelliJ系列最好用破解](https://github.com/wenyanjun/free-code)
 [IntelliJ系列破解](http://idea.lanyus.com/)    
 

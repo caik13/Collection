@@ -1,4 +1,10 @@
 ## Collection
+
+## h5离线包
+https://juejin.cn/post/6844904031773523976
+https://www.cnblogs.com/zhangrunhao/p/14582448.html
+https://help.aliyun.com/document_detail/130807.html
+
 [游戏程序员的读书笔记](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
 [android 骨架屏](https://github.com/samlss/Broccoli)

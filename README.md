@@ -1,6 +1,7 @@
 ## Collection    
 https://github.com/chai2010?tab=repositories 用go语言制作语言    
 
+https://github.com/babysor/MockingBird AI拟声: 5秒内克隆您的声音并生成任意
 
 ## h5离线包
 https://juejin.cn/post/6844904031773523976    

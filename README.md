@@ -133,4 +133,5 @@ https://github.com/soapyigu/Swift-30-Projects
 * [Android对话框Dialog，PopupWindow，Toast的实现机制](http://blog.csdn.net/feiduclear_up/article/details/49080587)  
 * [Android 实现视频录制播放](http://blog.csdn.net/yilip/article/details/45075541)    
 * [一个简短的android病毒分析](http://blog.csdn.net/songguobing/article/details/9309269) 
-* [好看的 loging 动画](http://mp.weixin.qq.com/s?__biz=MjM5NTQ5MjIyMA==&mid=400603665&idx=3&sn=4e97192d3
+* [好看的 loging 动画](http://mp.weixin.qq.com/s?__biz=MjM5NTQ5MjIyMA==&mid=400603665&idx=3&sn=4e97192d3    
+* 杭州买房  https://github.com/zkqiang/hangzhou-house-guide
